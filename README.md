@@ -20,7 +20,7 @@ Since KNN is unsupervised and requires on-spot learning, it results in significa
 
 Decision tree, on the other hand, is supervised, and is faster than KNN. Decision trees are also easy to read and interpret.
 
-Thehyperparameter can have an impact on the accuracy for KNN. As shown in the graph the correlation between the value of K and the accuracy of the model is demonstrated clearly, we can see that the best accuracy is achieved around when K = 12 with accuracy of 0.84 on validation set.
+The hyperparameter can have an impact on the accuracy for KNN. As shown in the graph the correlation between the value of K and the accuracy of the model is demonstrated clearly, we can see that the best accuracy is achieved around when K = 12 with accuracy of 0.84 on validation set.
 
 The limit on the maximum depth of the decision tree, which is the hyperparameter for decision trees, controls the overall complexity of the decision tree.
 
