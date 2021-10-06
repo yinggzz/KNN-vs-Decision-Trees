@@ -26,4 +26,4 @@ The limit on the maximum depth of the decision tree, which is the hyperparameter
 
 As shown in the graph, . Initially, increasing the depth will make the tree better fitted and decrease the entropy cost and increase the accuracy; however, trees that are too deep will overfit the training data, thus performing badly on the test data. The model performed the best when the maximum depth of the tree was around 7 with accuracy of 0.87 on validation set.
 ```
-code blocks for commands
+
