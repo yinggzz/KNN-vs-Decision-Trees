@@ -9,12 +9,8 @@ Pre-processing of two data sets from UCI Machine Learning Repository, performing
 
 Found that the k-nearest neighbour regression approach achieved worse accuracy than decision trees and was significantly slower to train.
 
-### Executing program
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Rsult
+### Result
 
 Since KNN is unsupervised and requires on-spot learning, it results in significantly higher computational complexity and time and is much more expensive than decision trees. For the training of adult.data, KNN took 43 minutes in total to train, while decision trees only took 1 minute.
 
